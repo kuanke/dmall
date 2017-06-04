@@ -1,0 +1,7 @@
+*.class
+.war
+
+target/
+.idea
+*.iml
+*.gitignore
